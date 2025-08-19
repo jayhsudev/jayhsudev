@@ -11,11 +11,18 @@ I'm Jay Hsu, a passionate developer who loves building cool things with code. We
 - Currently deepening my knowledge in [Technology/Framework 1]
 - Experimenting with [Technology/Framework 2]
 -->
-### 📊 Project Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayhsudev&show_icons=true&theme=dark)
-
-### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhsudev&layout=compact&theme=dark)
+<table>
+	<tr>
+		<td>
+			<h3>📊 Project Statistics</h3>
+			<img src="https://github-readme-stats.vercel.app/api?username=jayhsudev&show_icons=true&theme=dark" />
+		</td>
+		<td>
+			<h3>💻 Top Languages</h3>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhsudev&layout=compact&theme=dark" />
+		</td>
+	</tr>
+</table>
 <!--
 ### 👯 Collaboration
 - Open to collaborating on interesting projects
